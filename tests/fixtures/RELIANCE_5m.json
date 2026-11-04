@@ -1,0 +1,29 @@
+{
+  "symbol": "RELIANCE",
+  "ticker": "RELIANCE.NS",
+  "exchange": "NSE",
+  "opening_range_15m": {
+    "start": "09:15",
+    "end": "09:30",
+    "high": 1362.18,
+    "low": 1354.47,
+    "mid": 1358.32
+  },
+  "breakout_candle": {
+    "time": "10:10",
+    "confirmed_at": "10:15",
+    "open": 1359.50,
+    "high": 1364.80,
+    "low": 1358.90,
+    "close": 1364.18,
+    "volume": 320000
+  },
+  "trade_plan": {
+    "entry": 1364.18,
+    "stop": 1358.32,
+    "target": 1370.04,
+    "risk_per_share": 5.86,
+    "target_gain": 5.86,
+    "cutoff": "15:15:00 IST"
+  }
+}
